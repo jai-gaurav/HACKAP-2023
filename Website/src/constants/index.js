@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Advanced Artificial Intelligence",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best Machine Learning models your accurate analysis",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Seamless Interface",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "A clean and easy to navigate GUI on both mobile and browser",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Optimal Usage",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Models to optimize appliance usage and record electrcity consumption trends",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Increase",
+    value: "97%",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Renewable Energy",
+    value: "24%",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Electricity Consumption",
+    value: "1200 KWh",
   },
 ];
 
